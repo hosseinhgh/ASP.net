@@ -1,0 +1,9 @@
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\bin\NorthwindHGH.dll.config
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\bin\NorthwindHGH.dll
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\bin\NorthwindHGH.pdb
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\obj\Debug\NorthwindHGH.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\obj\Debug\NorthwindHGH.dll
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\obj\Debug\NorthwindHGH.pdb
+C:\xampp\htdocs\asp.netcourse\atHome\NorthwindHGH\NorthwindHGH\obj\Debug\NorthwindHGH.csprojResolveAssemblyReference.cache
